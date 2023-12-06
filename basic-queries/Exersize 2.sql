@@ -21,6 +21,6 @@ select UnitsInStock, UnitPrice FROM products  Where UnitsInStock <= 100 AND Unit
 Order BY UnitPrice desc;
 */
 
-/* 6th question from exercise */
-select * from products
-where UnitPrice
+/* 6th question from exercise 
+select * from ProductName, UnitsInStock, UnitPrice FROM products Where
+where UnitPr
